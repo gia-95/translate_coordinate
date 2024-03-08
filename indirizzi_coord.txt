@@ -1,0 +1,60 @@
+{
+  indirizzo: 'Via Mario Bianchini 15, Roma'
+  lat: 41.833686
+  lng: 12.500429
+},
+{
+  indirizzo: 'Via Cristoforo Colombo 20, Roma'
+  lat: 41.872099
+  lng: 12.496701
+},
+{
+  indirizzo: 'Via Macedonia 25, Roma'
+  lat: 41.872168
+  lng: 12.512668
+},
+{
+  indirizzo: 'Via Appia 915, Roma'
+  lat: 41.840975
+  lng: 12.551536
+},
+{
+  indirizzo: 'Via Mario Bianchini 15, Roma'
+  lat: 41.833686
+  lng: 12.500429
+},
+{
+  indirizzo: 'Via Cristoforo Colombo 20, Roma'
+  lat: 41.872099
+  lng: 12.496701
+},
+{
+  indirizzo: 'Via Macedonia 25, Roma'
+  lat: 41.872168
+  lng: 12.512668
+},
+{
+  indirizzo: 'Via Appia 915, Roma'
+  lat: 41.840975
+  lng: 12.551536
+},
+{
+  indirizzo: 'Via Mario Bianchini 15, Roma'
+  lat: 41.833686
+  lng: 12.500429
+},
+{
+  indirizzo: 'Via Cristoforo Colombo 20, Roma'
+  lat: 41.872099
+  lng: 12.496701
+},
+{
+  indirizzo: 'Via Macedonia 25, Roma'
+  lat: 41.872168
+  lng: 12.512668
+},
+{
+  indirizzo: 'Via Appia 915, Roma'
+  lat: 41.840975
+  lng: 12.551536
+},
